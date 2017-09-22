@@ -1,0 +1,2 @@
+# TakePhotoTool
+基于TZImagePickerController框架写的直接调起相机拍照，包括隐私权限的管理，图片的相关的处理，size、data，type等
